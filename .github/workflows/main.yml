@@ -1,7 +1,7 @@
-- name: Gitbook Action
+name: Gitbook Action
   # You may pin to the exact commit or the version.
   # uses: ZanderZhao/gitbook-action@6581a6a91a610e27befd2e1ba568148fe3a6c621
-  uses: ZanderZhao/gitbook-action@v1.2.4
+uses: ZanderZhao/gitbook-action@v1.2.4
   with:
     # Can be Token or Password for source_repo(clone token) and publish_repo(clone push token)
     token: 
