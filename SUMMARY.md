@@ -6,3 +6,11 @@
 
 * [Cognitive Distortions](psychology/cognitive-distortions.md)
 
+## Searching
+
+* [Google](searching/search-google.md)
+
+---
+
+* [Marketing and Business](marketing-and-business.md)
+
