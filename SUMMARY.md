@@ -1,13 +1,14 @@
 # Table of contents
 
 * [hmm](README.md)
-* [Psychology](psychology-1/README.md)
-  * [Cognitive Distortions](psychology-1/cognitive-distortions.md)
-* [Searching](searching-1/README.md)
-  * [Google](searching-1/search-google.md)
-  * [Marketing](searching-1/marketing-and-business.md)
-* [Ideas](ideas-1/README.md)
-  * [Document Generation](ideas-1/document-generation.md)
+* [Questions I have](questions-i-have.md)
+* [Psychology](psychology/README.md)
+  * [Cognitive Distortions](psychology/cognitive-distortions.md)
+* [Searching](searching/README.md)
+  * [Google](searching/search-google.md)
+  * [Marketing](searching/marketing-and-business.md)
+* [Ideas](ideas/README.md)
+  * [Document Generation](ideas/document-generation.md)
 * [Notion](notion.md)
 * [Shipping](shipping/README.md)
   * [CBSA Highway Cargo](shipping/cbsa-highway-cargo.md)
@@ -21,4 +22,14 @@
 * [Health](health/README.md)
   * [Ototoxicity](health/ototoxicity.md)
   * [Hormonal Contraceptives](health/hormonal-contraceptives.md)
+
+## Test Group
+
+* [Test Page 1](test-group/test-page-1.md)
+
+## Test Group 2
+
+* [Test Page 2](test-group-2/test-page-2/README.md)
+  * [Test Page 3](test-group-2/test-page-2/test-page-3.md)
+* [Test Page 4](test-group-2/test-page-4.md)
 

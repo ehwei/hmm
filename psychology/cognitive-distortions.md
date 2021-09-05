@@ -2,9 +2,9 @@
 
 The most common cognitive distortions include:
 
-* mental filtering - negative filter & ignore positives
-* polarization - the world is black and white
-* overgeneralization - isolated negative event becomes downward spiral \("always\)
+* mental filtering
+* polarization
+* overgeneralization
 * discounting the positive
 * jumping to conclusions
 * catastrophizing
