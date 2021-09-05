@@ -5,7 +5,7 @@
   * [Cognitive Distortions](psychology-1/cognitive-distortions.md)
 * [Searching](searching-1/README.md)
   * [Google](searching-1/search-google.md)
-  * [Marketing and Business](searching-1/marketing-and-business.md)
+  * [Marketing](searching-1/marketing-and-business.md)
 * [Ideas](ideas-1/README.md)
   * [Document Generation](ideas-1/document-generation.md)
 * [Notion](notion.md)

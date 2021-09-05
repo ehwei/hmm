@@ -1,4 +1,4 @@
-# Marketing and Business
+# Marketing
 
 #### Links
 
