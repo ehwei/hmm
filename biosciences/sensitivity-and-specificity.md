@@ -2,15 +2,11 @@
 
 **Sensitivity** is the percentage of people with the disease who correctly tested positive. It measures the test’s ability to correctly identify people who have the disease \(true vs. false positive\).
 
-{% hint style="success" %}
-90% sensitivity = 90% of people who have the disease will test positive.
-{% endhint %}
+> 90% sensitivity = 90% of people who have the disease will test positive.
 
 **Specificity** is the percentage of people without the disease who correctly test negative. It measures the test’s ability to correctly identify people without the disease \(true vs. false negative\).
 
-{% hint style="success" %}
-e.g. 90% specificity = 90% of people who do not have the disease will test negative.
-{% endhint %}
+> e.g. 90% specificity = 90% of people who do not have the disease will test negative.
 
 **Positive predictive value \(PPV\)** is the likelihood that a positive test indicates the presence of a disease, or the proportion of people with positive test results who actually have the disease.
 
