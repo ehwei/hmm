@@ -1,16 +1,24 @@
 # Table of contents
 
-* [Initial page](README.md)
-
-## Psychology
-
-* [Cognitive Distortions](psychology/cognitive-distortions.md)
-
-## Searching
-
-* [Google](searching/search-google.md)
-
----
-
-* [Marketing and Business](marketing-and-business.md)
+* [hmm](README.md)
+* [Psychology](psychology-1/README.md)
+  * [Cognitive Distortions](psychology-1/cognitive-distortions.md)
+* [Searching](searching-1/README.md)
+  * [Google](searching-1/search-google.md)
+  * [Marketing and Business](searching-1/marketing-and-business.md)
+* [Ideas](ideas-1/README.md)
+  * [Document Generation](ideas-1/document-generation.md)
+* [Notion](notion.md)
+* [Shipping](shipping/README.md)
+  * [CBSA Highway Cargo](shipping/cbsa-highway-cargo.md)
+* [Biosciences](biosciences/README.md)
+  * [Sensitivity and Specificity](biosciences/sensitivity-and-specificity.md)
+* [Code Snippets](code-snippets/README.md)
+  * [VBA](code-snippets/vba.md)
+* [Food & Drink](food-and-drink/README.md)
+  * [Recipe Book Ideas](food-and-drink/recipe-book-ideas.md)
+  * [Lollipops](food-and-drink/lollipops.md)
+* [Health](health/README.md)
+  * [Ototoxicity](health/ototoxicity.md)
+  * [Hormonal Contraceptives](health/hormonal-contraceptives.md)
 
